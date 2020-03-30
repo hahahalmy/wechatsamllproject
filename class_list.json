@@ -1,0 +1,834 @@
+{
+    "_id": "11",
+    "class_item":[
+        {
+            "class_id": 1101,
+            "class_name":"农学概论",
+            "teacher_name":"原保忠",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/植科.png"
+        },
+        {
+            "class_id": 1102,
+            "class_name":"农学概论",
+            "teacher_name":"展茗",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/植科.png"
+        },
+        {
+            "class_id": 1103,
+            "class_name":"生态学基础",
+            "teacher_name":"汪金平",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/植科.png"
+        },
+        {
+            "class_id": 1104,
+            "class_name":"蘑菇与人类生活",
+            "teacher_name":"边银丙",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/植科.png"
+        }
+    ]
+}
+{
+    "_id": "12",
+    "class_item":[
+        {
+            "class_id": 1201,
+            "class_name":"野生动物资源保护与利用",
+            "teacher_name":"李翔",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1202,
+            "class_name":"畜牧学概论",
+            "teacher_name":"雷明刚",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1203,
+            "class_name":"生物进化论与现代人类社会",
+            "teacher_name":"朱猛进",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1204,
+            "class_name":"慢性疾病与健康管理",
+            "teacher_name":"赵京杨",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1205,
+            "class_name":"食品安全评价",
+            "teacher_name":"程古月",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1206,
+            "class_name":"食品安全评价",
+            "teacher_name":"潘源虎",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1207,
+            "class_name":"生活中毒物面面观",
+            "teacher_name":"陶燕飞",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1208,
+            "class_name":"生活中毒物面面观",
+            "teacher_name":"程古月",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1209,
+            "class_name":"抗菌药物与细菌耐药",
+            "teacher_name":"程古月",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1210,
+            "class_name":"抗菌药物与细菌耐药",
+            "teacher_name":"戴梦红",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1211,
+            "class_name":"做自己的营养医生",
+            "teacher_name":"陶燕飞",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1212,
+            "class_name":"畜牧学概论（慕课）",
+            "teacher_name":"陈世林",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1213,
+            "class_name":"畜牧学概论（慕课）",
+            "teacher_name":"梁爱心",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1214,
+            "class_name":"生殖生理与健康",
+            "teacher_name":"曾翠平",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1215,
+            "class_name":"宠物鉴赏（慕课）",
+            "teacher_name":"熊家军",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        },
+        {
+            "class_id": 1216,
+            "class_name":"营养、膳食与健康",
+            "teacher_name":"王艳青",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/动医动科.png"
+        }
+    ]
+}
+{
+    "_id": "13",
+    "class_item":[
+        {
+            "class_id": 1301,
+            "class_name":"环境科学概论",
+            "teacher_name":"胡金龙",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/资环.png"
+        },
+        {
+            "class_id": 1302,
+            "class_name":"城市水土保持",
+            "teacher_name":"张晓明",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/资环.png"
+        }
+    ]
+}
+{
+    "_id": "14",
+    "class_item":[
+        {
+            "class_id": 1401,
+            "class_name":"中国酒文化",
+            "teacher_name":"赵述淼",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/生科.png"
+        },
+        {
+            "class_id": 1402,
+            "class_name":"生命科学导论（MOOC）",
+            "teacher_name":"李兴旺、高友军、郑世学、张敏",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/生科.png"
+        },
+        {
+            "class_id": 1403,
+            "class_name":"创新与低风险创业能力",
+            "teacher_name":"葛向阳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/生科.png"
+        }
+    ]
+}
+{
+    "_id": "15",
+    "class_item":[
+        {
+            "class_id": 1501,
+            "class_name":"草坪学",
+            "teacher_name":"尹少华",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1502,
+            "class_name":"果蔬营养与保健",
+            "teacher_name":"杨静",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1503,
+            "class_name":"蔬菜学概论",
+            "teacher_name":"杨文杰",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1504,
+            "class_name":"室内装潢材料",
+            "teacher_name":"徐有明",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1505,
+            "class_name":"果树栽培学",
+            "teacher_name":"刘永忠",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1506,
+            "class_name":"有机园艺",
+            "teacher_name":"张青林",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1507,
+            "class_name":"园艺概论",
+            "teacher_name":"伊华林",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1508,
+            "class_name":"中国工笔绘画技法",
+            "teacher_name":"洪勇辉",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1509,
+            "class_name":"中华农耕文明的传承与发展",
+            "teacher_name":"汪李平",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        },
+        {
+            "class_id": 1510,
+            "class_name":"茶叶营养与功能B",
+            "teacher_name":"杨小萍",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/园艺.png"
+        }
+    ]
+}
+{
+    "_id": "16",
+    "class_item":[
+        {
+            "class_id": 1601,
+            "class_name":"篮球（初级）",
+            "teacher_name":"斐红 熊国庆 金志祥 薛亮 邹伟",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1602,
+            "class_name":"篮球（提高）",
+            "teacher_name":"金志祥 邹伟",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1603,
+            "class_name":"荷式篮球",
+            "teacher_name":"金志祥",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1604,
+            "class_name":"排球（初级）",
+            "teacher_name":"王东山 朱斌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1605,
+            "class_name":"排球（提高）",
+            "teacher_name":"王东山 朱斌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1606,
+            "class_name":"足球（初级）",
+            "teacher_name":"高原",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1607,
+            "class_name":"足球（提高）",
+            "teacher_name":"闫彬",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1608,
+            "class_name":"乒乓球（初级）",
+            "teacher_name":"斐红 祝自新 刘明昌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1609,
+            "class_name":"乒乓球（提高）",
+            "teacher_name":"刘明昌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1610,
+            "class_name":"羽毛球",
+            "teacher_name":"李为 符辉 梁妮",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1611,
+            "class_name":"网球（初级）",
+            "teacher_name":"祝自新 符辉 孙波 林晓文",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1612,
+            "class_name":"网球（提高）",
+            "teacher_name":"孙波",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1613,
+            "class_name":"太极柔力球",
+            "teacher_name":"梁妮",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1614,
+            "class_name":"健美操（初级）",
+            "teacher_name":"李翔 柯凤仪",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1615,
+            "class_name":"健美操（提高）",
+            "teacher_name":"李翔",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1616,
+            "class_name":"体育舞蹈（初级）",
+            "teacher_name":"杨元清",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1617,
+            "class_name":"器械健美",
+            "teacher_name":"施克进",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1618,
+            "class_name":"形体健身",
+            "teacher_name":"邱玲 柯凤仪",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1619,
+            "class_name":"自卫防身术",
+            "teacher_name":"李建波",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1620,
+            "class_name":"跆拳道（初级）",
+            "teacher_name":"孙波",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1621,
+            "class_name":"综合体育",
+            "teacher_name":"林晓文 闫彬",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1622,
+            "class_name":"综合体育（体适能）",
+            "teacher_name":"冀鹏 金志祥 邹伟 高原",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1623,
+            "class_name":"太极",
+            "teacher_name":"冀鹏 杨元清",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1624,
+            "class_name":"定向越野",
+            "teacher_name":"王语嫣 朱斌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1625,
+            "class_name":"游泳（初级）",
+            "teacher_name":"冀鹏 刘河旺 易善立 夏伦 薛亮 李翔 高原 斐红 金志祥 熊国庆 朱斌 符辉 施克进 邹伟",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1626,
+            "class_name":"游泳（提高）",
+            "teacher_name":"夏伦 邹伟",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1627,
+            "class_name":"瑜伽",
+            "teacher_name":"邱玲 黄清",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1628,
+            "class_name":"射箭",
+            "teacher_name":"李建波 闫彬",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1629,
+            "class_name":"动感热舞",
+            "teacher_name":"黄清",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1630,
+            "class_name":"攀岩",
+            "teacher_name":"王语嫣",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1631,
+            "class_name":"高尔夫球",
+            "teacher_name":"孔新亮 刘河旺",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1632,
+            "class_name":"拓展运动",
+            "teacher_name":"龙波 施克进 夏伦 薛亮",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1633,
+            "class_name":"运动康复",
+            "teacher_name":"易善立",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        },
+        {
+            "class_id": 1634,
+            "class_name":"慢投垒球",
+            "teacher_name":"易善立",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/水产.png"
+        }
+    ]
+}
+{
+    "_id": "18",
+    "class_item":[
+        {
+            "class_id": 1801,
+            "class_name":"职业生涯规划与管理",
+            "teacher_name":"张爱武",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1802,
+            "class_name":"会计学原理",
+            "teacher_name":"孔凤英",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1803,
+            "class_name":"市场营销学",
+            "teacher_name":"李万君",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1804,
+            "class_name":"创业财务管理",
+            "teacher_name":"肖华芳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1805,
+            "class_name":"思维导图和iMindMap应用",
+            "teacher_name":"王清",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1806,
+            "class_name":"财富密码与财商思维",
+            "teacher_name":"唐梅",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1807,
+            "class_name":"财富密码与财商思维",
+            "teacher_name":"吴伟荣",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        },
+        {
+            "class_id": 1808,
+            "class_name":"现代管理学研究方法",
+            "teacher_name":"青平",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/经管.png"
+        }
+    ]
+}
+{
+    "_id": "19",
+    "class_item":[
+        {
+            "class_id": 1901,
+            "class_name":"功能食品",
+            "teacher_name":"梁宏闪",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1902,
+            "class_name":"面点工艺学",
+            "teacher_name":"丁士勇",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1903,
+            "class_name":"食品营养与健康",
+            "teacher_name":"李晶",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1904,
+            "class_name":"转基因食品与安全",
+            "teacher_name":"魏雪团",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1905,
+            "class_name":"绿色食品与有机食品",
+            "teacher_name":"黄琪琳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1906,
+            "class_name":"食品感官评定",
+            "teacher_name":"袁方",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1907,
+            "class_name":"食品安全与卫生",
+            "teacher_name":"张卓",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1908,
+            "class_name":"食品法典",
+            "teacher_name":"张卓",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1909,
+            "class_name":"葡萄酒文化与鉴赏",
+            "teacher_name":"李二虎",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1910,
+            "class_name":"中国饮食文化（慕课）",
+            "teacher_name":"谢定源",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1911,
+            "class_name":"美食鉴赏与食品创新设计",
+            "teacher_name":"梁宏闪、李斌",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        },
+        {
+            "class_id": 1912,
+            "class_name":"糖果文化与工艺",
+            "teacher_name":"侯焘",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/食科.png"
+        }
+    ]
+}
+{
+    "_id": "20",
+    "class_item":[
+        {
+            "class_id": 2001,
+            "class_name":"桥牌入门",
+            "teacher_name":"刘承平",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2002,
+            "class_name":"欣赏物理学",
+            "teacher_name":"马成长",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2003,
+            "class_name":"大学生自我认知与发展",
+            "teacher_name":"易伟松",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2004,
+            "class_name":"化学研究进展",
+            "teacher_name":"肖志乐",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2005,
+            "class_name":"金融数学",
+            "teacher_name":"陈晓坤",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2006,
+            "class_name":"数学文化欣赏（慕课）",
+            "teacher_name":"沈婧芳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2007,
+            "class_name":"认识星空（慕课）",
+            "teacher_name":"魏薇",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2008,
+            "class_name":"现代物理农业创新案例分析",
+            "teacher_name":"陈建军",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2009,
+            "class_name":"优秀科普纪录片赏析",
+            "teacher_name":"马成长",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        },
+        {
+            "class_id": 2010,
+            "class_name":"智能科技与创新创业",
+            "teacher_name":"后德家",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/理学.png"
+        }
+    ]
+}
+{
+    "_id": "21",
+    "class_item":[
+        {
+            "class_id": 2101,
+            "class_name":"大学语文",
+            "teacher_name":"陈朝鲜",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2102,
+            "class_name":"大学语文",
+            "teacher_name":"潘纯",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2103,
+            "class_name":"广告策划与赏析",
+            "teacher_name":"崔磊",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2104,
+            "class_name":"《老子》与中国智慧",
+            "teacher_name":"田志勇",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2105,
+            "class_name":"电影中的法律问题",
+            "teacher_name":"汤建华",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2106,
+            "class_name":"电影中的法律问题",
+            "teacher_name":"王虎",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2107,
+            "class_name":"电影中的法律问题",
+            "teacher_name":"张迎春",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2108,
+            "class_name":"应用写作（慕课）",
+            "teacher_name":"兰霞",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2109,
+            "class_name":"应用写作（慕课）",
+            "teacher_name":"方宪",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2110,
+            "class_name":"应用写作（慕课）",
+            "teacher_name":"袁琳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2111,
+            "class_name":"魅力汉语（慕课）",
+            "teacher_name":"兰霞",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2112,
+            "class_name":"诗词情声",
+            "teacher_name":"李利民",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2113,
+            "class_name":"古代小说与中国文化",
+            "teacher_name":"金艳",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        },
+        {
+            "class_id": 2114,
+            "class_name":"阅读的历史与文化",
+            "teacher_name":"胡程立",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/文法.png"
+        }
+    ]
+}
+{
+    "_id": "22",
+    "class_item":[
+        {
+            "class_id": 2201,
+            "class_name":"标准日本语（初级）",
+            "teacher_name":"邓在京",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2202,
+            "class_name":"标准日本语（初级）",
+            "teacher_name":"王丽娜",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2203,
+            "class_name":"标准日本语（初级）",
+            "teacher_name":"李学婷",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2204,
+            "class_name":"公共法语",
+            "teacher_name":"丁杨",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2205,
+            "class_name":"公共法语",
+            "teacher_name":"尚文君",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2206,
+            "class_name":"翻译技巧与实践",
+            "teacher_name":"谢露洁",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2207,
+            "class_name":"外国文学名著导读",
+            "teacher_name":"方红、邓小红、吴罗娟、丁杨",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2208,
+            "class_name":"标准日本语（提高）",
+            "teacher_name":"邓在京",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2209,
+            "class_name":"英国文学导读",
+            "teacher_name":"邓小红、丁艳雯、李莉",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        },
+        {
+            "class_id": 2210,
+            "class_name":"英汉语言文化对比与翻译",
+            "teacher_name":"张娟",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/外国语.png"
+        }
+    ]
+}
+{
+    "_id": "23",
+    "class_item":[
+        {
+            "class_id": 2301,
+            "class_name":"认识武汉",
+            "teacher_name":"刘双",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/马克思.png"
+        },
+        {
+            "class_id": 2302,
+            "class_name":"耕读中国",
+            "teacher_name":"李恺",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/马克思.png"
+        },
+        {
+            "class_id": 2303,
+            "class_name":"西方哲学导论",
+            "teacher_name":"但昭明",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/马克思.png"
+        }
+    ]
+}
+{
+    "_id": "25",
+    "class_item":[
+        {
+            "class_id": 2501,
+            "class_name":"统计模拟与R（B）",
+            "teacher_name":"杨庆勇",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/信息.png"
+        },
+        {
+            "class_id": 2502,
+            "class_name":"苹果iOS移动应用设计与开发",
+            "teacher_name":"秦丽",
+            "class_image":"cloud://lvxiaoning-mr0n9.6c76-lvxiaoning-mr0n9-1301462349/college_image/信息.png"
+        }
+    ]
+}
+
